@@ -37,7 +37,7 @@ figcaption {
  }
  
  #details >  div {
-   float
+   float:left;
  }
 
 
