@@ -35,8 +35,8 @@ figcaption {
 
  }
  
-footer > p {
-  display: inline;
+footer > div {
+  display: block;
   
 }
 
