@@ -32,12 +32,13 @@ figcaption {
  
  #details {
    background: red;
-   display: block;
+   width: 100%;
+   
    
  }
  
 #details > div {
-  float: left;
+  display: inline-block;
 }
 
  
