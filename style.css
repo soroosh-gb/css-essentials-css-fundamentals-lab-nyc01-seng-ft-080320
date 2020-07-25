@@ -37,7 +37,8 @@ figcaption {
  }
  
 #details > div {
-  display: inline-block;
+  display: block;
+  float: left;
 }
 
  
